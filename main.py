@@ -30,6 +30,6 @@ def main():
     # Suggest friends for Alice
     friend_suggestions = suggest_friends(g, "Alice")
     print(f"Friend suggestions for Alice: {friend_suggestions}")
-    print("Check")
+    print("checking")
 if __name__ == "__main__":
     main()
